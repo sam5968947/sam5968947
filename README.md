@@ -1,6 +1,9 @@
 - 👋 Hi, I’m 彭昇煒
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++/python algorithm and data structure.
+- 👀 I’m interested in Computer Architecture and Computer Systems.
+- 🌱 What am i learning now : 
+-  (1)algorithm(python/C++)
+-  (2)data structure(python/C++)
+-  (3)CSAPP Labs Projects(C)
 - 💞️ I’m looking to collaborate on ...
 - 📫 My e-mail : sam5968947@yahoo.com.tw
 
