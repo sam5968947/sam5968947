@@ -4,7 +4,6 @@
 -  (1)algorithm(python/C++)
 -  (2)data structure(python/C++)
 -  (3)CSAPP Labs Projects(C)
-- 💞️ I’m looking to collaborate on ...
 - 📫 My e-mail : sam5968947@yahoo.com.tw
 
 <!---
